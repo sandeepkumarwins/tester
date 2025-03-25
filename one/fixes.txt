@@ -3,3 +3,5 @@ added more file .
 added THIRD FILE.
 added fourth bugs.
 fifth bug
+
+another fix messages for pink mode.
